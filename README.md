@@ -16,7 +16,8 @@ In this project, I fetch artifact data from the **Harvard Art Museums API** and 
 ---
 
 
-[app.py.txt](https://github.com/user-attachments/files/23342182/app.py.txt)
+[app.py](https://github.com/user-attachments/files/23343015/app.py)
+
 [project _ harvard sql query.sql](https://github.com/user-attachments/files/23342170/project._.harvard.sql.query.sql)
 [Harvard_reference-LAPTOP-753ONE2H (1).ipynb](https://github.com/user-attachments/files/23342121/Harvard_reference-LAPTOP-753ONE2H.1.ipynb)
 
